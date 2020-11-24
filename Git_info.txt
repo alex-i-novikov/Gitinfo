@@ -1,0 +1,7 @@
+git status - просмотр статуса 
+git clone -  REPO склонировать сущ репоз к себе локально
+git pull  - обновить репозиторий
+
+git add - FILE/FOLDER_NAME - пометить для коммита
+git commit -m "MASSAGE" - собрать файлы в коммит
+git push - отправить коммиты на сервер
